@@ -1,4 +1,4 @@
-import '../CSS/style.css'; // Ajuste o caminho se o nome do arquivo for diferente
+import '../css/style.css';
 import { inicializarNavegacao } from "./modules/navigation.js";
 import { inicializarFormulario, inicializarApoio } from "./modules/form.js";
 
